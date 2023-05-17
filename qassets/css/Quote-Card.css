@@ -1,18 +1,19 @@
 .quote-card {
-  background: rgb(162, 195, 241);
-  color: #222222;
-  padding: 20px;
-  padding-left: 50px;
-  box-sizing: border-box;
-  box-shadow: 0 2px 4px rgba(34, 34, 34, 0.12);
-  position: relative;
-  overflow: hidden;
-  min-height: 120px;
-  border-radius: 20px;
+background: #cacccd;
+color: #222222;
+padding: 20px;
+padding-left: 50px;
+box-sizing: border-box;
+box-shadow: 0 20px 20px rgba(34, 34, 34, 0.12);
+position: relative;
+overflow: hidden;
+min-height: 120px;
+border-radius: 20px;
+width: 60%;
 }
 
 .quote-card p {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.5;
   margin: 0;
   max-width: 80%;
@@ -41,7 +42,7 @@
   font-family: Georgia, serif;
   content: "”";
   position: absolute;
-  bottom: -110px;
+  bottom: -100px;
   line-height: 100px;
   right: -32px;
   font-size: 25em;
