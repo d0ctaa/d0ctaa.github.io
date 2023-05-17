@@ -1,5 +1,5 @@
 .quote-card {
-  background: #fff;
+  background: rgb(162, 195, 241);
   color: #222222;
   padding: 20px;
   padding-left: 50px;
@@ -8,6 +8,7 @@
   position: relative;
   overflow: hidden;
   min-height: 120px;
+  border-radius: 20px;
 }
 
 .quote-card p {
